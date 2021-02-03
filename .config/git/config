@@ -1,0 +1,12 @@
+[user]
+	name = Serial
+	email = 69764315+Serial-ATA@users.noreply.github.com
+[github]
+	user = Serial-ATA
+[credential "https://github.com"]
+	helper = !gh auth git-credential
+[color]
+	ui = auto
+[core]
+    editor = micro
+	excludesfile = ~/.config/git/ignore

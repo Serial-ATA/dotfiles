@@ -1,0 +1,33 @@
+[Added Associations]
+application/atom+xml=org.kde.kate.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;wine-extension-txt.desktop;librewolf.desktop;
+application/geo+json=org.kde.kate.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;librewolf.desktop;wine-extension-txt.desktop;
+application/x-wine-extension-ini=org.kde.kate.desktop;wine-extension-ini.desktop;
+application/xml=org.kde.kate.desktop;firefox.desktop;org.kde.kwrite.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;vim.desktop;GitKraken.desktop;wine-extension-txt.desktop;
+image/png=org.kde.gwenview.desktop;okularApplication_kimgio.desktop;krita_png.desktop;gimp.desktop;org.kde.kolourpaint.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/html=librewolf.desktop;org.kde.kate.desktop;libreoffice-writer.desktop;okularApplication_txt.desktop;wine-extension-txt.desktop;vim.desktop;
+text/plain=org.kde.kate.desktop;
+
+[Default Applications]
+application/atom+xml=org.kde.kate.desktop;
+application/geo+json=org.kde.kate.desktop;
+application/x-wine-extension-ini=org.kde.kate.desktop;
+application/xml=org.kde.kate.desktop;
+image/png=org.kde.gwenview.desktop;
+inode/directory=org.kde.dolphin.desktop;
+text/html=librewolf.desktop;
+x-scheme-handler/discord-381948295830044683=discord-381948295830044683.desktop
+x-scheme-handler/discord-382302420073709568=discord-382302420073709568.desktop
+x-scheme-handler/discord-382303152327753739=discord-382303152327753739.desktop
+x-scheme-handler/discord-474605546457137157=discord-474605546457137157.desktop
+x-scheme-handler/gitkraken=GitKraken.desktop
+x-scheme-handler/http=librewolf.desktop;
+x-scheme-handler/https=librewolf.desktop;
+x-scheme-handler/msteams=teams.desktop
+
+[Removed Associations]
+application/atom+xml=vim.desktop;
+application/geo+json=vim.desktop;
+application/xml=wine-extension-xml.desktop;
+image/png=wine-extension-png.desktop;
+text/html=org.kde.kimagemapeditor.desktop;wine-extension-htm.desktop;

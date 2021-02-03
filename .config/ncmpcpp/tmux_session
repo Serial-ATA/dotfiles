@@ -1,0 +1,6 @@
+neww
+send-keys 'wal -R' C-m
+send-keys 'ncmpcpp' C-m
+split-window
+send-keys 'cava' C-m
+select-pane -t 0

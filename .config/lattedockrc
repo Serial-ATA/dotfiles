@@ -1,0 +1,58 @@
+[DownloadDialog Settings]
+Height 1440=494
+Width 2560=700
+
+[KFileDialog Settings]
+Recent Files[$e]=Three Docks.layout.latte,file:$HOME/Downloads/Three Docks.layout.latte
+Recent URLs[$e]=file:$HOME/Downloads/
+listViewIconSize=0
+
+[KPropertiesDialog]
+DP-2 HDMI-0 Height 1440=453
+DP-2 HDMI-0 Width 2560=491
+Height 1440=456
+Width 2560=410
+
+[LatteSettingsDialog]
+downloadWindowSize=800,550
+windowSize=700,628
+
+[LatteSettingsDialog][TabLayouts]
+columnWidths=49,76,77,0
+sortColumn=3
+sortOrder=0
+
+[Notification Messages]
+really_clear_history=true
+
+[PlasmaRunnerManager]
+LaunchCounts=5 services_com.github.wwmm.pulseeffects.desktop,2 services_filezilla.desktop,3 services_applications:gparted.desktop,1 services_applications:libreoffice-draw.desktop,1 services_runescape-oldschool.desktop,1 baloosearch_/home/alex/IDEA/plugins/eclipse,2 services_applications:org.qbittorrent.qBittorrent.desktop,2 services_applications:org.gnome.meld.desktop,19 services_org.kde.kcalc.desktop,1 baloosearch_/home/alex/eclipse/jee-2019-09/eclipse,1 services_applications:intellij-idea-ce.desktop,3 services_applications:discord.desktop,1 services_org.kde.ksirkskineditor.desktop,1 services_applications:elementary_config.desktop,1 services_applications:org.inkscape.Inkscape.desktop,3 services_lmms.desktop,2 services_applications:Mon2Cam.desktop,2 services_multimc.desktop,7 services_applications:openoffice4-startcenter.desktop,1 services_applications:glade.desktop,1 services_Spiral Knights.desktop,1 services_applications:mspaint.exe.desktop,1 services_applications:elementary_perf.desktop,1 services_org.kde.ksysguard.desktop,1 services_applications:discord-canary.desktop,1 services_applications:vlc.desktop,1 shell_slock,2 services_applications:VSCodium.desktop,1 services_minecraft-launcher.desktop,1 services_com.leinardi.gwe.desktop,4 services_org.kde.kdenlive.desktop,1 services_applications:elementary_test.desktop,3 services_applications:wine-Programs-TI-SmartView CE for the TI-84 Plus Family-TI-SmartView CE for the TI-84 Plus Family.desktop,1 baloosearch_/home/alex/Pictures/Uplay,3 services_technic-launcher.desktop,1 services_applications:org.kde.kgpg.desktop,1 services_hardinfo.desktop,3 services_applications:minecraft-launcher.desktop,60 services_applications:org.kde.spectacle.desktop,1 services_applications:org.kde.dolphin.desktop,2 services_applications:org.kde.konsole.desktop,3 services_applications:blender.desktop,11 services_applications:com.github.wwmm.pulseeffects.desktop,3 services_eclipse.desktop,11 services_applications:heroic.desktop,1 services_smb.desktop,18 services_applications:audacity.desktop,1 services_applications:kcm_bolt.desktop,1 services_runescape.desktop,12 services_pavucontrol.desktop,1 services_org.kde.knotes.desktop,2 services_applications:wine-Programs-TI Tools-TI-SmartView TI-84 Plus-TI-SmartView TI-84 Plus.desktop,1 services_applications:org.kde.kalgebra.desktop,1 services_applications:org.kde.kmail2.desktop,5 services_applications:discord-ptb.desktop,1 services_applications:org.kde.kfloppy.desktop,18 services_gimp.desktop,13 services_applications:virt-manager.desktop,2 services_PlayOnLinux.desktop,8 services_applications:org.kde.kid3.desktop,10 services_applications:org.kde.kdenlive.desktop,4 services_applications:droidcam.desktop,3 services_applications:io.github.antimicrox.antimicrox.desktop,10 services_org.kde.krita.desktop,13 services_applications:pavucontrol.desktop,4 baloosearch,1 services_pinta.desktop,10 services_applications:org.kde.kate.desktop,1 services_org.kde.kfind.desktop,1 services_vncviewer.desktop,1 services_applications:simplescreenrecorder.desktop,6 services_gparted.desktop,1 services_applications:hplip.desktop,1 services_jetbrains-idea-ce.desktop,3 services_applications:librewolf.desktop,1 services_org.kde.cervisia.desktop,38 services_applications:multimc.desktop,1 services_org.kde.kgpg.desktop,9 services_org.kde.spectacle.desktop,1 services_org.qbittorrent.qBittorrent.desktop,1 services_applications:org.kde.gwenview.desktop,4 services_atom-beta.desktop,14 services_com.uploadedlobster.peek.desktop,6 services_libreoffice-writer.desktop,1 services_applications:org.kde.kdf.desktop,6 services_applications:cadmus.desktop,1 services_applications:steam.desktop,1 baloosearch_/home/alex/Unigine_Heaven-4.0,1 services_runescape-launcher.desktop,2 services_timeshift-gtk.desktop,1 services_urxvt.desktop,14 services_org.kde.kate.desktop,1 services_applications:com.zamaudio.zamulticomp.desktop,7 services_applications:virtualbox.desktop,7 services_applications:net.lutris.Lutris.desktop,5 services_virtualbox.desktop,19 services_applications:com.uploadedlobster.peek.desktop,1 services_applications:org.kde.discover.desktop,1 services_org.kde.discover.desktop,2 services_applications:emacs.desktop,1 services_applications:htop.desktop,2 services_applications:timeshift-gtk.desktop,2 services_net.lutris.Lutris.desktop,1 shell_kate,5 services_applications:jetbrains-clion.desktop,1 services_audacity.desktop,6 services_com.obsproject.Studio.desktop,1 services_atom.desktop,45 services_applications:org.kde.kcalc.desktop,1 services_applications:autokey-qt.desktop,1 services_applications:org.kde.ktuberling.desktop,1 services_applications:autokey-gtk.desktop,4 services_applications:GitKraken.desktop,4 services_applications:systemsettings.desktop,9 services_applications:jetbrains-idea.desktop,1 services_visual-studio-code.desktop,2 services_org.libreoffice.LibreOffice.writer.desktop,1 services_applications:org.kde.kompare.desktop,1 services_wine-Programs-SteelSeries-SteelSeries Engine 3-SteelSeries Engine 3.desktop,1 services_smbstatus.desktop,18 services_applications:gimp.desktop,1 services_applications:jetbrains-idea-ce.desktop,5 services_applications:libreoffice-writer.desktop,1 services_libreoffice-calc.desktop,1 baloosearch_/home/alex/Documents/lmms
+pluginWhiteList=services,shell,bookmarks,baloosearch,locations
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=DP-0
+11=DP-2
+12=HDMI-0
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=false
+currentLayout=My Layout
+downloadWindowSize=-1,-1
+hiddenConfigurationWindowsAreDeleted=true
+inAdvancedModeForEditSettings=false
+lastNonAssignedLayout=My Layout
+launchers=applications:technic-launcher.desktop,applications:org.kde.dolphin.desktop,applications:minecraft-launcher.desktop,applications:firefox.desktop,applications:com.valvesoftware.Steam.desktop,applications:org.kde.konsole.desktop,applications:rhythmbox.desktop,applications:discord.desktop
+layoutsColumnWidths=
+layoutsWindowSize=-1,-1
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+singleModeLayoutName=My Layout
+unifiedGlobalShortcuts=true
+version=2

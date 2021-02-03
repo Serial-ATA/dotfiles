@@ -1,0 +1,64 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+BrowseThroughArchives=true
+ConfirmClosingMultipleTabs=false
+SortingChoice=CaseInsensitiveSorting
+Version=200
+ViewPropsTimestamp=2019,4,20,18,44,28
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+DP-2 HDMI-0 Height 1080=832
+DP-2 HDMI-0 Height 1440=832
+DP-2 HDMI-0 Width 1920=1220
+DP-2 HDMI-0 Width 2560=1220
+Height 1080=834
+Height 1440=834
+Width 1920=1220
+Width 2560=1220
+
+[MainWindow]
+DP-2 HDMI-0 Height 1080=832
+DP-2 HDMI-0 Height 1440=832
+DP-2 HDMI-0 Width 1920=1220
+DP-2 HDMI-0 Width 2560=1220
+DP-2 HDMI-0 XPosition=414
+DP-2 HDMI-0 YPosition=468
+Height 1080=713
+Height 1440=834
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC+AAADGvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAADGgAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAEBQAAAxoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1920=1238
+Width 2560=1220
+
+[Notification Messages]
+ConfirmDelete=true
+ConfirmEmptyTrash=true
+
+[Open-with settings]
+CompletionMode=1
+History=kate,clion,kden,kdenlive,ark,file,gwen,idea,vlc,atom,fire
+
+[PlacesPanel]
+IconSize=22
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,marble_thumbnail_shp,exrthumbnail,directorythumbnail,fontthumbnail,marble_thumbnail_geojson,pothumbnail,marble_thumbnail_gpx,imagethumbnail,jpegthumbnail,marble_thumbnail_kmz,marble_thumbnail_kml,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,mobithumbnail,opendocumentthumbnail,marble_thumbnail_osm,gsthumbnail,designerthumbnail,rawthumbnail,svgthumbnail,resvgthumbnailer,ffmpegthumbs
+
+[Search]
+ShowFacetsWidget=true
+
+[SettingsDialog]
+DP-2 HDMI-0 Height 1440=832
+DP-2 HDMI-0 Width 2560=1220
+Height 1440=834
+Width 2560=1220

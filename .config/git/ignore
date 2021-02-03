@@ -1,0 +1,9 @@
+# Builds
+target/*
+
+# IDE
+.idea/*
+*.iml
+
+# Logs
+*.log
