@@ -1,0 +1,33 @@
+font:
+
+  normal:
+    family: Fira Mono
+    style: Regular
+ 
+  bold:
+    family: Fira Mono
+    style: Bold
+
+  italic:
+    family: Fira Mono
+    style: Italic
+
+  size: 12
+  
+draw_bold_text_with_bright_colors: true
+
+window:
+  opacity: 0.75
+ 
+mouse:
+
+  double_click: { threshold: 300 }
+  triple_click: { threshold: 300 }
+  faux_scrollback_lines: 1
+ 
+selection:
+  semantic_escape_chars: ",│`|:\"' ()[]{}<>"
+ 
+hide_cursor_when_typing: false
+ 
+cursor_style: Block 
