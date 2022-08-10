@@ -27,4 +27,8 @@ def user_md_parser(smart_md, md, video_info, url_info):
     features += ')'
     
     md['title'] += features
+    
+  if 'album' in video_info and type(video_info['album']) == str and 'album' not in md:
+    md['album'] = video_info['album']
+  
   return md
