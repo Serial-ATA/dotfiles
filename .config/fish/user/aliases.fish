@@ -23,7 +23,7 @@ alias p="sudo pacman"
 alias ps="ps -u $USER"
 alias scc="scc --exclude-dir target,.idea,.git"
 alias sound="yt-dlp --ignore-config -x --audio-format mp3 -o '~/Documents/sounds/%(title)s.%(ext)s'"
-alias song="yt-dlp --ignore-config -x --audio-quality 0 --add-metadata -o '~/Music/%(artist)s - %(track)s.%(ext)s'"
+alias song="vidl opus --no-embed --no-smart-md"
 alias ss='sudo systemctl'
 alias upmirrors='sudo reflector --verbose --latest 15 --sort rate --protocol https --save /etc/pacman.d/mirrorlist'
 alias wget='wget --hsts-file="$XDG_CACHE_HOME/wget-hsts"'
