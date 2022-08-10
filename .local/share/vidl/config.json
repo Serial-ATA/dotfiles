@@ -1,4 +1,4 @@
 {
   "download_folder": "~/Music",
-  "output_template": "%(uploader)s - %(title)s.%(ext)s"
+  "output_template": "%(artist)s - %(title)s.%(ext)s"
 }
