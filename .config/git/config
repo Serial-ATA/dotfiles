@@ -19,3 +19,5 @@
 	ff = only
 [push]
 	followTags = true
+[commit]
+	gpgSign = true
