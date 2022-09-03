@@ -16,6 +16,7 @@ set -x EDITOR nano
 set -x XDG_CONFIG_HOME "$HOME/.config"
 set -x XDG_DATA_HOME "$HOME/.local/share"
 set -x XDG_CACHE_HOME "$HOME/.cache"
+set -x XDG_STATE_HOME "$HOME/.local/state"
 
 set -x XDG_PICTURES_DIR "$HOME/Media/Pictures"
 set -x XDG_VIDEOS_DIR "$HOME/Media/Videos"
@@ -71,12 +72,19 @@ set -x LESSHISTFILE "$XDG_CACHE_HOME"/less/history
 set -x __GL_SHADER_DISK_CACHE_PATH "$XDG_CACHE_HOME"/nv
 set -x CUDA_CACHE_PATH "$XDG_CACHE_HOME"/nv
 
-# Pywal
+#Pywal
 cat ~/.cache/wal/sequences &
 
 #Ruby
 set -x GEM_SPEC_CACHE "$XDG_CACHE_HOME"/gem
 set -x BUNDLE_USER_CACHE "$XDG_CACHE_HOME"/bundle
+
+#############################
+#          STATE            #
+#############################
+
+#Bash
+set -x HISTFILE "$XDG_STATE_HOME"/bash/history
 
 #############################
 #          DATA             #
