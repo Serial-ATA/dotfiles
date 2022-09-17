@@ -12,21 +12,22 @@ def user_md_parser(smart_md, md, video_info, url_info):
   if len(split_artists) > 1:
     md['artist'] = split_artists[0]
     
-    features = " (feat. " + split_artists[1]
-    
-    idx = 2
-    artists_size = len(split_artists) - 1
-    for artist in split_artists[2:]:
-      if idx == artists_size:
-        features += " & "
-      else:
-        features += ", "
+    if (not md['title'].__contains__("feat")):
+      features = " (feat. " + split_artists[1]
       
-      idx += 1
-      features += artist
-    features += ')'
-    
-    md['title'] += features
+      idx = 2
+      artists_size = len(split_artists) - 1
+      for artist in split_artists[2:]:
+        if idx == artists_size:
+          features += " & "
+        else:
+          features += ", "
+        
+        idx += 1
+        features += artist
+      features += ')'
+      
+      md['title'] += features
     
   if 'album' in video_info and type(video_info['album']) == str and 'album' not in md:
     md['album'] = video_info['album']
