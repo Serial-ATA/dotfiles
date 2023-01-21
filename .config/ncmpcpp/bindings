@@ -1,2 +1,2 @@
 def_key "u"
-  run_external_console_command "mpc up; mpc clear; mpc add /; python2 \"$HOME/.local/bin/mpdsort.py\"; mpc play"
+  run_external_console_command "mpc up; mpc clear; mpc add /; mpc play"
