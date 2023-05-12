@@ -25,10 +25,12 @@ alias p="sudo pacman"
 alias ps="ps -u $USER"
 alias scc="scc --exclude-dir target,.idea,.git,.venv,.env"
 alias sound="yt-dlp --ignore-config -x --audio-format mp3 -o '~/Documents/sounds/%(title)s.%(ext)s'"
-alias song="vidl opus --no-embed --no-smart-md"
 alias ss='sudo systemctl'
+alias sudo='doas'
+alias sudoedit='doas rnano'
 alias upmirrors='sudo reflector --verbose --latest 15 --sort rate --protocol https --save /etc/pacman.d/mirrorlist'
 alias wget='wget --hsts-file="$XDG_CACHE_HOME/wget-hsts"'
-alias yay='paru --noconfirm --sudoloop --noremovemake --nocleanafter --noredownload'
+alias yay='paru --noconfirm --noredownload'
 alias yarn='yarn --use-yarnrc "$XDG_CONFIG_HOME/yarn/config"'
 alias youtube-dl='yt-dlp'
+alias songstore="yt-dlp -x -f 'ba/ba*' --audio-quality 0 --embed-metadata --no-embed-chapters --no-embed-info-json -o '~/Music/Temp/%(title)s.%(ext)s'"
