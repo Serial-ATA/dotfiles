@@ -1,0 +1,19 @@
+directory: ~/Music
+library: ~/.local/share/beets/musiclibrary.db
+import:
+    move: yes
+plugins: mbsync mpdstats web lyrics fetchart embedart albumtypes
+ui:
+    color: yes
+paths:
+    default: Albums/$albumartist/$album/$track $title
+    singleton: Singletons/$artist - $title
+    comp: Compilations/$artist/$album/$track $title
+    albumtype:single: Non-Album/$albumartist/$album/$title
+match:
+    preferred:
+        countries: ['US', 'GB|UK']
+        media: ['Digital Media|File', 'CD']
+        original_year: yes
+fetchart:
+    maxwidth: 600
