@@ -25,6 +25,7 @@ set -x PROJECTS_DIR "$HOME/Projects"
 
 set -x GPG_TTY (tty)
 set -x LD_BIND_NOW 1
+
 #############################
 #         CONFIG            #
 #############################
@@ -65,6 +66,9 @@ set -x BUNDLE_USER_CONFIG "$XDG_CONFIG_HOME"/bundle
 #          CACHE            #
 #############################
 
+#Cargo
+set -x CARGO_TARGET_DIR "$XDG_CACHE_HOME"/target
+
 #Less
 set -x LESSHISTFILE "$XDG_CACHE_HOME"/less/history
 
@@ -96,7 +100,6 @@ set -x ANDROID_EMULATOR_HOME "$XDG_DATA_HOME"/android/
 
 #Cargo
 set -x CARGO_HOME "$XDG_DATA_HOME"/cargo
-set -x CARGO_TARGET_DIR "$PROJECTS_DIR"/target
 
 #GnuPG
 set -x GNUPGHOME "$XDG_DATA_HOME"/gnupg
