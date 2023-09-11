@@ -1,0 +1,17 @@
+bless
+clion
+clion-jre
+cmake
+fish
+gradle
+jdk-openjdk
+jre-openjdk
+jdk17-openjdk
+jre17-openjdk
+just
+maven
+python
+python-virtualenv
+python-wheel
+rustup
+sccache
