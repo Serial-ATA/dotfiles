@@ -26,6 +26,8 @@ set -x PROJECTS_DIR "$HOME/Projects"
 set -x GPG_TTY (tty)
 set -x LD_BIND_NOW 1
 
+set -x DEBUGINFOD_URLS "https://debuginfod.archlinux.org"
+
 #############################
 #         CONFIG            #
 #############################
@@ -131,4 +133,4 @@ set -x VAGRANT_ALIAS_FILE "$XDG_DATA_HOME"/vagrant/aliases
 set -x WINEPREFIX "$XDG_DATA_HOME"/wineprefixes/default
 
 #PATH
-set -x PATH "$JAVA_HOME/bin:$GEM_HOME/bin:$CARGO_HOME/bin:$XDG_DATA_HOME/npm/bin:$HOME/.local/bin:$PATH" 
+set -x PATH "/usr/lib/dart/bin:$JAVA_HOME/bin:$GEM_HOME/bin:$CARGO_HOME/bin:$XDG_DATA_HOME/npm/bin:$HOME/.local/bin:$PATH" 
